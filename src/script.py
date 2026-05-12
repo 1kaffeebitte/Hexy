@@ -7,17 +7,18 @@ class HexagonMover:
         self.root.title("Move the Hexagons")
         
         # Setup canvas
-        self.canvas = tk.Canvas(root, width=800, height=600, bg="white")
+        self.canvas = tk.Canvas(root, width=2000, height=1000, bg="black")
         self.canvas.pack()
 
         # Define hexagon parameters
         self.hex_radius = 50
-        self.hex_color = "#ADD8E6" # Light Blue
         
         # Create some predefined hexagons
-        self.create_hexagon(100, 100)
-        self.create_hexagon(300, 200)
-        self.create_hexagon(500, 150)
+        number_each_color = 5
+        self.create_hexagons(n=number_each_color, x_first=100,y_first=100, color="#999999")
+        self.create_hexagons(n=number_each_color, x_first=100,y_first=250, color="#3d85c6")
+        self.create_hexagons(n=number_each_color, x_first=100,y_first=400, color="#f1c232")
+        self.create_hexagons(n=number_each_color, x_first=100,y_first=550, color="#6aa84f")
 
         # Variables for dragging
         self.selected_item = None
@@ -29,7 +30,13 @@ class HexagonMover:
         self.canvas.bind("<B1-Motion>", self.on_drag)
         self.canvas.bind("<ButtonRelease-1>", self.on_release)
 
-    def create_hexagon(self, x, y):
+    def create_hexagons(self, n: int, x_first: float, y_first: float, color: str):
+        """ create n new hexagons of the same color with a certain offset to one another """
+        offset = 10.0
+        for i in range(n):
+            self.create_hexagon(x_first + i * offset, y_first + i * offset, color=color)
+
+    def create_hexagon(self, x, y, color):
         """Creates a hexagon polygon centered at (x, y)"""
         points = []
         for i in range(6):
@@ -41,7 +48,7 @@ class HexagonMover:
             points.append(py)
         
         # Create polygon and tag it as 'hexagon' for identification
-        self.canvas.create_polygon(points, fill=self.hex_color, 
+        self.canvas.create_polygon(points, fill=color, 
                                    outline="black", width=2, tags="hexagon")
 
     def on_press(self, event):
