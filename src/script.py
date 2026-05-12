@@ -4,7 +4,7 @@ import math
 class HexagonMover:
     def __init__(self, root):
         self.root = root
-        self.root.title("Move the Hexagons")
+        self.root.title("Hex")
         
         # Setup canvas
         self.canvas = tk.Canvas(root, width=2000, height=1000, bg="black")
