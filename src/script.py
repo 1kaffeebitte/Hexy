@@ -1,24 +1,14 @@
 import tkinter as tk
 import math
 
-class HexagonMover:
+class ShapesMover:
     def __init__(self, root):
         self.root = root
         self.root.title("Hex")
         
         # Setup canvas
-        self.canvas = tk.Canvas(root, width=2000, height=1000, bg="black")
+        self.canvas = tk.Canvas(root, width=2000, height=1000, bg="white")
         self.canvas.pack()
-
-        # Define hexagon parameters
-        self.hex_radius = 50
-        
-        # Create some predefined hexagons
-        number_each_color = 5
-        self.create_hexagons(n=number_each_color, x_first=100,y_first=100, color="#999999")
-        self.create_hexagons(n=number_each_color, x_first=100,y_first=250, color="#3d85c6")
-        self.create_hexagons(n=number_each_color, x_first=100,y_first=400, color="#f1c232")
-        self.create_hexagons(n=number_each_color, x_first=100,y_first=550, color="#6aa84f")
 
         # Variables for dragging
         self.selected_item = None
@@ -30,20 +20,47 @@ class HexagonMover:
         self.canvas.bind("<B1-Motion>", self.on_drag)
         self.canvas.bind("<ButtonRelease-1>", self.on_release)
 
-    def create_hexagons(self, n: int, x_first: float, y_first: float, color: str):
-        """ create n new hexagons of the same color with a certain offset to one another """
-        offset = 10.0
-        for i in range(n):
-            self.create_hexagon(x_first + i * offset, y_first + i * offset, color=color)
+        self.create_initial_shapes()
 
+    def create_initial_shapes(self):
+        # Create some predefined hexagons
+        n = 10
+        self.create_stack(n, 100,100, "#999999", self.create_hexagon)
+        self.create_stack(n, 100,250, "#3d85c6", self.create_hexagon)
+        self.create_stack(n, 100,400, "#f1c232", self.create_hexagon)
+        self.create_stack(n, 100,550, "#6aa84f", self.create_hexagon)
+
+    def create_stack(self, n: int, x_first: float, y_first: float, color: str, shape_function: callable):
+        """ create n new hexagons of the same color with a certain offset to one another """
+        x_offset = 10.0
+        y_offset = 5.0
+        for i in range(n):
+            shape_function(x_first + i * x_offset, y_first + i * y_offset, color=color)
+
+    def create_rectangle(self, x, y, color):
+        """Creates a rectangle centered at (x, y)"""
+        height = 50.0
+        width = 30.0        
+        points = [
+            x - width/2, y - height/2,
+            x - width/2, y + height/2,
+            x + width/2, y + height/2,
+            x + width/2, y - height/2,
+        ]        
+        # Create polygon and tag it as 'hexagon' for identification
+        self.canvas.create_polygon(points, fill=color, 
+                                   outline="black", width=2, tags="hexagon")
+        
     def create_hexagon(self, x, y, color):
         """Creates a hexagon polygon centered at (x, y)"""
+        # Define hexagon parameters
+        hex_radius = 50
         points = []
         for i in range(6):
             angle_deg = 60 * i
             angle_rad = math.radians(angle_deg)
-            px = x + self.hex_radius * math.cos(angle_rad)
-            py = y + self.hex_radius * math.sin(angle_rad)
+            px = x + hex_radius * math.cos(angle_rad)
+            py = y + hex_radius * math.sin(angle_rad)
             points.append(px)
             points.append(py)
         
@@ -74,5 +91,5 @@ class HexagonMover:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = HexagonMover(root)
+    app = ShapesMover(root)
     root.mainloop()
