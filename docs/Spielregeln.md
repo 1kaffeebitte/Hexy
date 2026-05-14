@@ -89,8 +89,10 @@ Mit dem Krokodil als Reittier kann sich eine Hexe auf Wasser sowie an Wasser gre
 
 Das Krokodil hat keinen Sinn für die Hübschigkeit des Kudus.
 
-
 #### Bär
+Der Bär ist zu finden in Wald, der an Gebirge oder Eis grenzt.
+
+Mit dem Bär als Reittier bewegt sich die Hexe in Wald, Gebirge, Wiese und Eis. In der Wüste ist es dem Bären zu warm.
 
 #### Kudu
 
