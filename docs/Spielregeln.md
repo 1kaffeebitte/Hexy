@@ -5,7 +5,7 @@ Hexen zaubern ihre Fantasiewelt in einer Art Meisterschaft. Es treten dabei immm
 TODO: mehr zum geschichtlichen Hintergrund
 
 ## Ziel des Spiels
-Ziel ist es, alle Hexen aus dem gegnerischen Team zu schnappen und so als einziges Hexenteam auf dem Spielfeld zu bleiben.
+Ziel ist es, alle Hexen aus dem gegnerischen Team vom Spielfeld zu schnappen und so als einziges Hexenteam auf dem Spielfeld zu bleiben.
 
 ## Spielmaterial 
 Sechseckige Felder mit folgenden Landschaftstypen:
