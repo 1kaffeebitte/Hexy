@@ -95,6 +95,11 @@ Der Bär ist zu finden in Wald, der an Gebirge oder Eis grenzt.
 Mit dem Bär als Reittier bewegt sich die Hexe in Wald, Gebirge, Wiese und Eis. In der Wüste ist es dem Bären zu warm.
 
 #### Kudu
+Der Kudu ist zu finden in Wiese, die an Wüste grenzt.
+
+Mit dem Kudu als Reittier hüpft die Hexe genau 2 Felder weit. Das Ziel kann dabei nicht Wasser oder Eis sein. Ersteres platscht zu sehr, auf zweiterem ist dem Kudu zu kalt.
+
+Eine Hexe auf einem Kudu kann wegen dessen ausgesprochenen Hübschigkeit nur auf Tieren ohne Sinn für seine Hübschigkeit geschnappt werden.
 
 #### Forelle
 
