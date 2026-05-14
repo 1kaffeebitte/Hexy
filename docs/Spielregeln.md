@@ -64,6 +64,8 @@ Drache > Wüstenwurm > Krokodil > Bär > Kudu > Forelle > Hexe ohne Reittier
 
 Eine Bewegung auf ein Feld, auf dem sich eine gegnerische Hexe mit einem stärkeren Reittier befindet, ist nicht möglich.
 
+Eine Hexe mit Kudu als Reittier kann nur mit Reittieren ohne Sinn für die Hübschigkeit des Kudus geschnappt werden.
+
 #### Weitere Hexe spawnen
 
 Die Hexe kann auf einem benachbarten freien nicht-Wasser- und nicht-Eis-Felc eine weitere Hexe auf dem eigenen Team spawnen, wenn es noch Hexen gibt, die noch im Spawning Pool, also weder auf dem Spielplan noch im Schanppgefängnis sind.
@@ -90,6 +92,12 @@ Da die Hexen weder ertrinken noch erfrieren wollen, weigern sie sich, auf Wasser
 Ist das Flugziel ein Wald-Feld,auf dem sich eine gegnerische Hexe befindet, so kann diese mit ihrem eventuellen Reittier auf ein Nachbarfeld ausweichen.
 
 #### Wüstenwurm
+
+Der Wüstenwurm kann nur in Wüsten gefunden werden.
+
+Mit ihm als Reittier kann sich die Hexe von einem Wüstenfeld zu einem beliebigen anderen Wüstenfeld graben.
+
+Der Wüstenwurm hat keinen Sinn für die Hübschigkeit des Kudus.
 
 #### Krokodil
 
