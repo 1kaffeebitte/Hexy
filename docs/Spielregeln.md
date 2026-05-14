@@ -83,6 +83,12 @@ Mit ihm als Reittier kann sich die Hexe von einem Wüstenfeld zu einem beliebige
 Der Wüstenwurm hat keinen Sinn für die Hübschigkeit des Kudus.
 
 #### Krokodil
+Das Krokodil ist zu finden in Wiese oder Wüste, die an Wasser grenzen.
+
+Mit dem Krokodil als Reittier kann sich eine Hexe auf Wasser sowie an Wasser grenzende Wiese oder Wüste bewegen.
+
+Das Krokodil hat keinen Sinn für die Hübschigkeit des Kudus.
+
 
 #### Bär
 
