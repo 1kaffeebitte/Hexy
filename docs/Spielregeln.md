@@ -61,6 +61,14 @@ Wenn sich die Hexe auf einem Reittier befindet, kann sich spezielle Aktionen aus
 
 #### Drache
 
+
+Der Drache kann gefunden werden in einem Gebirge, das an mindestens 2 weitere Gebirge grenzt.
+
+Mit dem Drachen kann die Hexe bis zu 2 Felder weit auf ein nicht-Wasser- und nicht-Eis-Feld fliegen.
+Drachen sind äußerst freiheitsliebende Tiere, deshalb fliegt der Drache nach dem Landen davon.
+Da die Hexen weder ertrinken noch erfrieren wollen, weigern sie sich, auf Wasser- oder Eis-Feldern zu landen.
+Ist das Flugziel ein Wald-Feld,auf dem sich eine gegnerische Hexe befindet, so kann diese mit ihrem eventuellen Reittier auf ein Nachbarfeld ausweichen.
+
 #### Wüstenwurm
 
 #### Krokodil
