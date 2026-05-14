@@ -5,7 +5,7 @@ Hexen zaubern ihre Fantasiewelt in einer Art Meisterschaft. Es treten dabei immm
 TODO: mehr zum geschichtlichen Hintergrund
 
 ## Ziel des Spiels
-Ziel ist es, alle Hexen aus dem gegnerischen Team zu schnappen.
+Ziel ist es, alle Hexen aus dem gegnerischen Team zu schnappen und so als einziges Hexenteam auf dem Spielfeld zu bleiben.
 
 ## Spielmaterial 
 Sechseckige Felder mit folgenden Landschaftstypen:
@@ -29,38 +29,40 @@ Wiese - Wald - Fluss - Berg - Fluss - Wald - Wiese.
 
 Auf die beiden äußersten Landschaftsplättchen kommt jeweils die erste Hexe der beiden Teams.
 
+Die übrigen 3 Hexen pro Team kommen in den Spawning Pool.
+
 ## Spielablauf
 Reihum sind die Spieler an der Reihe, insgesamt 3 Aktionen mit Hexen ihres Teams auszuführen.
 
-### Mögliche Aktionen einer Hexe
-Eine Hexe kann auch ohne Reittier folgende Aktionen in beliebiger Reihenfolge ausführen.
-Die Aktionen können auch auf mehrere Hexen verteilt werden - aber nur die, die am Anfang der Runde schon auf dem Spielplan befunden haben.
+### Aktionen einer Hexe
+Eine Hexe kann (auch ohne Reittier) die in diesem Kapitel beschriebenen Aktionen in beliebiger Reihenfolge ausführen.
+Die 3 Aktionen können auf mehrere Hexen verteilt werden - aber nur die, die sich am Anfang der Runde schon auf dem Spielplan befunden haben.
 
 #### Bewegen
-Die Hexe bewegt sich um 1 Feld, das kein Wasser- oder Eis-Feld ist und nicht von einer anderen Hexe belegt ist.
+Die Hexe bewegt sich um 1 Feld, das kein Wasser oder Eis ist und nicht von einer anderen Hexe belegt ist.
 
 #### Gelände herbeizaubern
 Die Hexe sucht sich einen beliebigen Geländetyp aus und legt ihn auf ein noch nicht belegtes, benachbartes Feld.
 
 #### Ein Reittier betören
-Befindet sich die Hexe auf einem geeigneten Feld (mehr dazu im Kapitel Reittiere), kann sie das Reittier zähmen und sogleich verwenden. Sitzt sie bereits auf einem Reittier, wird es gegen das neue eingetauscht. Das alte Reittier läuft weg und versteckt sich wieder.
+Befindet sich die Hexe auf einem geeigneten Feld (mehr dazu im Kapitel Reittiere), kann sie das Reittier zähmen und sogleich verwenden. Sitzt sie bereits auf einem Reittier, wird das alte gegen das neue Reittier eingetauscht. Das alte läuft weg und versteckt sich wieder.
 
 #### Andere Hexe schnappen
 Durch Bewegen auf ein Feld, auf dem sich eine gegnerische Hexe befindet, deren Reittier nicht stärker ist als das eigene, wird die gegnerische Hexe geschnappt und in das Schnappgefängnis gesteckt.
 
 Die Reittiere sind in ihrer Stärke folgendermaßen angeordnet:
-Drache > Wüstenwurm > Krokodil > Bär > Kudu > Forelle > Hexe ohne Reittier
+Drache > Wüstenwurm > Krokodil > Bär > Kudu > Forelle > kein Reittier
 
 Eine Bewegung auf ein Feld, auf dem sich eine gegnerische Hexe mit einem stärkeren Reittier befindet, ist nicht möglich.
 
 Eine Hexe mit Kudu als Reittier kann nur mit Reittieren ohne Sinn für die Hübschigkeit des Kudus geschnappt werden.
 
 #### Weitere Hexe spawnen
-Die Hexe kann auf einem benachbarten freien nicht-Wasser- und nicht-Eis-Felc eine weitere Hexe auf dem eigenen Team spawnen, wenn es noch Hexen gibt, die noch im Spawning Pool, also weder auf dem Spielplan noch im Schanppgefängnis sind.
+Die Hexe kann auf einem benachbarten freien Feld, das nicht Wasser oder Eis ist, eine weitere Hexe aus dem eigenen Team spawnen (sofern es noch welche im Spawning Pool gibt).
 
 #### Meditieren
 Die Hexe erhöht die Astralenergie des eigenen Teams um 1.
-Bei 6 Astralenergie kann eine geschnappte Hexe des eigenen Teams aus dem Schnappgefängnis in den Spawning Pool teleportieren. Die Astralenergie des Teams reduziert sich dann wieder auf 1.
+Bei 6 Astralenergie kann eine geschnappte Hexe des eigenen Teams aus dem Schnappgefängnis jederzeit in den Spawning Pool teleportiert werden. Die Astralenergie des Teams reduziert sich dann wieder auf 1.
 
 #### Reittier-Aktion
 Wenn sich die Hexe auf einem Reittier befindet, kann sich spezielle Aktionen ausführen. Mehr dazu im Kapitel Reittiere.
@@ -108,4 +110,4 @@ Mit der Forelle als Reittier kann sich eine Hexe in Wasser und Gebirge bis zu 2 
 
 ## Spielende
 
-Das Spiel endet, wenn nur noch Hexen eines Teams auf dem Spielfeld verbleiben. Das Team hat dann gewonnen.
+Das Spiel endet, wenn nur noch Hexen eines Teams auf dem Spielfeld verbleiben. Das Team hat dann gewonnen, auch wenn noch gegnerische Hexen im Spawning Pool sind.
