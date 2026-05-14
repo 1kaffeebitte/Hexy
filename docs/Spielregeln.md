@@ -102,6 +102,9 @@ Mit dem Kudu als Reittier hüpft die Hexe genau 2 Felder weit. Das Ziel kann dab
 Eine Hexe auf einem Kudu kann wegen dessen ausgesprochenen Hübschigkeit nur auf Tieren ohne Sinn für seine Hübschigkeit geschnappt werden.
 
 #### Forelle
+Die Forelle kann in Gebirge gefunden werden, das an Wasser grenzt.
+
+Mit der Forelle als Reittier kann sich eine Hexe in Wasser und Gebirge bis zu 2 Felder weit bewegen.
 
 ## Spielende
 
