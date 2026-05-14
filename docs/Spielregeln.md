@@ -1,17 +1,37 @@
 # Hexenteams
 
 ## Lore
+
 Hexen zaubern ihre Fantasiewelt in einer Art Meisterschaft. Es treten dabei immmer 2 Hexenteams gegeneinander an.
 TODO: mehr zum geschichtlichen Hintergrund
 
 ## Ziel des Spiels
+
 Ziel ist es, alle Hexen aus dem gegnerischen Team zu schnappen.
+
+## Spielmaterial 
+
+Sechseckige Felder mit folgenden Landschaftstypen:
+- Gebirge 
+- Wald
+- Wüste 
+- Eis
+- Wasser 
+- Wiese
+
+Je 4 Hexenfiguren und ein Astralenergie-Würfel für jedes Hexenteam
+
+Je 4 Reittierfiguren für jeden Reittier-Typ
+
+
 
 ## Spielvorbereitung
 
 Einigt Euch auf einen Startspieler und auf eine (möglichst symmetrische) Startlandschaft.
-Seid Ihr zu einer Einigung unfähig, beginnt die jüngste Startspielerin und die Startlandschaft ist
+Vorschlag für eine Startlandschaft:
+
 Wiese - Wald - Fluss - Berg - Fluss - Wald - Wiese.
+
 Auf die beiden äußersten Landschaftsplättchen kommt jeweils die erste Hexe der beiden Teams.
 
 ## Spielablauf
