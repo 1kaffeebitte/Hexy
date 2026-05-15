@@ -55,7 +55,7 @@ Befindet sich die Fee auf einem geeigneten Feld (mehr dazu im Kapitel Reittiere)
 Durch Bewegen auf ein Feld, auf dem sich eine gegnerische Fee befindet, deren Reittier schwächer ist als das eigene, wird die gegnerische Fee geschnappt und in das Schnappgefängnis gesteckt.
 
 Die Reittiere sind in ihrer Stärke folgendermaßen angeordnet:
-Drache > Sandfresser > Krokodil > Bär > Kudu > Nixe > Drache
+Drache > Sandfresser > Krokodil > Bär > Kudu > Nixenflammen-Forelle > Drache
 Eine Fee mit Reittier ist einer Fee ohne Reittier stets überlegen.
 
 Eine Bewegung auf ein Feld, auf dem sich eine gegnerische Fee mit einem gleich starken oder stärkeren Reittier befindet, ist nicht möglich.
@@ -108,10 +108,10 @@ Mit dem Kudu als Reittier hüpft die Fee genau 2 Felder weit. Das Ziel kann dabe
 
 Eine Fee auf einem Kudu kann wegen dessen ausgesprochenen Hübschigkeit nur auf Tieren ohne Sinn für seine Hübschigkeit geschnappt werden.
 
-#### Nixe
-Die Nixe kann in Gebirge gefunden werden, das an Wasser grenzt.
+#### Nixenflammen-Forelle
+Die Nixenflammen-Forelle kann in Gebirge gefunden werden, das an Wasser grenzt.
 
-Mit der Nixe als Reittier kann sich eine Fee in Wasser und Gebirge bis zu 2 Felder weit bewegen.
+Mit der Nixenflammen-Forelle als Reittier kann sich eine Fee in Wasser und Gebirge bis zu 2 Felder weit bewegen.
 
 ## Spielende
 Das Spiel endet, wenn nur noch Feen eines Teams auf dem Spielfeld verbleiben. Das Team hat dann gewonnen, auch wenn noch gegnerische Feen im Spawning Pool sind.
