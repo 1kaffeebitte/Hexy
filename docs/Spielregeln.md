@@ -45,7 +45,7 @@ Die 3 Aktionen können auf mehrere Feen verteilt werden - aber nur die, die sich
 #### Bewegen
 Die Fee bewegt sich um 1 Feld, das kein Wasser oder Eis ist und nicht von einer anderen Fee belegt ist.
 
-#### Gelände herbeizaubern
+#### Gelände entdecken
 Die Fee sucht sich einen beliebigen Geländetyp aus und legt ihn auf ein noch nicht belegtes, benachbartes Feld.
 
 #### Ein Reittier betören
