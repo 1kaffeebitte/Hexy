@@ -55,12 +55,13 @@ Befindet sich die Fee auf einem geeigneten Feld (mehr dazu im Kapitel Reittiere)
 Durch Bewegen auf ein Feld, auf dem sich eine gegnerische Fee befindet, deren Reittier schwächer ist als das eigene, wird die gegnerische Fee geschnappt und in das Schnappgefängnis gesteckt.
 
 Die Reittiere sind in ihrer Stärke folgendermaßen angeordnet:
-Drache > Sandfresser > Krokodil > Bär > Kudu > Nixenflammen-Forelle > Drache
+Drache > Sandfresser > Krokodil > Bär > großer Kudu > Nixenflammen-Forelle
+Die Nixenflammen-Forelle kann es als einziges Tier mit dem Drachen aufnehmen.
 Eine Fee mit Reittier ist einer Fee ohne Reittier stets überlegen.
 
 Eine Bewegung auf ein Feld, auf dem sich eine gegnerische Fee mit einem gleich starken oder stärkeren Reittier befindet, ist nicht möglich.
 
-Eine Fee mit Kudu als Reittier kann nur mit Reittieren ohne Sinn für die Hübschigkeit des Kudus geschnappt werden.
+Eine Fee mit großem Kudu als Reittier kann nur mit Reittieren ohne Sinn für die Hübschigkeit des großen Kudus geschnappt werden.
 
 #### Weitere Fee spawnen
 Die Fee kann auf einem benachbarten freien Feld, das nicht Wasser oder Eis ist, eine weitere Fee aus dem eigenen Team spawnen (sofern es noch welche im Spawning Pool gibt).
@@ -87,26 +88,26 @@ Der Sandfresser kann nur in Wüsten gefunden werden.
 
 Mit ihm als Reittier kann sich die Fee von einem Wüstenfeld zu einem beliebigen anderen Wüstenfeld graben.
 
-Der Sandfresser hat keinen Sinn für die Hübschigkeit des Kudus.
+Der Sandfresser hat keinen Sinn für die Hübschigkeit des großen Kudus.
 
 #### Krokodil
 Das Krokodil ist zu finden in Wiese oder Wüste, die an Wasser grenzen.
 
 Mit dem Krokodil als Reittier kann sich eine Fee auf Wasser sowie an Wasser grenzende Wiese oder Wüste bewegen.
 
-Das Krokodil hat keinen Sinn für die Hübschigkeit des Kudus.
+Das Krokodil hat keinen Sinn für die Hübschigkeit des großen Kudus.
 
 #### Bär
 Der Bär ist zu finden in Wald, der an Gebirge oder Eis grenzt.
 
 Mit dem Bär als Reittier bewegt sich die Fee in Wald, Gebirge, Wiese und Eis. In der Wüste ist es dem Bären zu warm.
 
-#### Kudu
-Der Kudu ist zu finden in Wiese, die an Wüste grenzt.
+#### Großer Kudu
+Der große Kudu ist zu finden in Wiese, die an Wüste grenzt oder Wüste, die an Wiese grenzt.
 
-Mit dem Kudu als Reittier hüpft die Fee genau 2 Felder weit. Das Ziel kann dabei nicht Wasser oder Eis sein. Ersteres platscht zu sehr, auf zweiterem ist dem Kudu zu kalt.
+Mit dem großen Kudu als Reittier hüpft die Fee genau 2 Felder weit. Das Ziel kann dabei nicht Wasser oder Eis sein. Ersteres platscht zu sehr, auf zweiterem ist dem großen Kudu zu kalt.
 
-Eine Fee auf einem Kudu kann wegen dessen ausgesprochenen Hübschigkeit nur auf Tieren ohne Sinn für seine Hübschigkeit geschnappt werden.
+Eine Fee auf einem großen Kudu kann wegen dessen ausgesprochenen Hübschigkeit nur mithilfe von stärkeren Tieren ohne Sinn für seine Hübschigkeit geschnappt werden.
 
 #### Nixenflammen-Forelle
 Die Nixenflammen-Forelle kann in Gebirge gefunden werden, das an Wasser grenzt.
