@@ -40,7 +40,7 @@ Reihum sind die Spieler an der Reihe, insgesamt 3 Aktionen mit Feen ihres Teams 
 
 ### Aktionen einer Fee
 Eine Fee kann (auch ohne Reittier) die in diesem Kapitel beschriebenen Aktionen in beliebiger Reihenfolge ausführen.
-Die 3 Aktionen können auf mehrere Feen verteilt werden - aber nur die, die sich am Anfang der Runde schon auf dem Spielplan befunden haben.
+Die 3 Aktionen können auf beide Feen verteilt werden - aber nur die, die sich am Anfang der Runde schon auf dem Spielplan befunden haben.
 
 #### Bewegen
 Die Fee bewegt sich um 1 Feld, das kein Wasser oder Eis ist und nicht von einer anderen Fee belegt ist.
@@ -80,8 +80,8 @@ Der Drache kann gefunden werden in einem Gebirge, das an mindestens 2 weitere Ge
 
 Mit dem Drachen kann die Fee bis zu 2 Felder weit auf ein nicht-Wasser- und nicht-Eis-Feld fliegen.
 Drachen sind äußerst freiheitsliebende Tiere, deshalb fliegt der Drache nach dem Landen davon.
-Da die Feen weder ertrinken noch erfrieren wollen, weigern sie sich, auf Wasser- oder Eis-Feldern zu landen.
-Ist das Flugziel ein Wald-Feld,auf dem sich eine gegnerische Fee befindet, so kann diese mit ihrem eventuellen Reittier auf ein Nachbarfeld ausweichen.
+Da die Feen weder ertrinken noch erfrieren wollen, weigern sie sich, auf Wasser oder Eis zu landen.
+Ist das Flugziel Wald,auf dem sich eine gegnerische Fee befindet, so kann diese mit ihrem eventuellen Reittier auf ein Nachbarfeld ausweichen.
 
 #### Sandfresser
 Der Sandfresser kann nur in Wüsten gefunden werden.
