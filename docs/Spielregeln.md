@@ -1,12 +1,13 @@
 # Die Feen der Glitzerwälder
 
 ## Lore
-In den schimmernden Glitzerwäldern, wo die Bäume aus purem Kristall wachsen und die Flüsse flüssiges Mondlicht statt Wasser fließen, leben zwei Feenstämme: die Lichtflüsterer und die Schattenwirbler. Jede Gruppe beherrscht eine einzigartige Gabe – sie können Tiere mit ihrem Gesang oder ihrer Berührung verzaubern. Doch dieser Zauber ist nicht nur ein Spiel: Er entscheidet über die Zukunft des Waldes.
+In den schimmernden Glitzerwäldern, wo die Bäume aus purem Kristall wachsen und die Flüsse flüssiges Mondlicht statt Wasser fließen, leben zwei Feenstämme: die Lichtflüsterer und die Schattenwirbler. Jeder Stamm beherrscht eine einzigartige Gabe – sie können Tiere mit ihrem Gesang oder ihrer Berührung verzaubern. Doch dieser Zauber ist nicht nur ein Spiel: Er entscheidet über die Zukunft des Waldes.
 
 Die Lichtflüsterer, mit ihren schimmernden Flügeln wie gefrorene Morgentautropfen, beschützen die sanften Wesen des Waldes. Ihr Gesang lässt Blumen in Sekunden erblühen und beruhigt selbst die wildesten Tiere. Doch ihre Magie ist zerbrechlich – sie brauchen die Harmonie des Waldes, um stark zu bleiben.
 
 Die Schattenwirbler hingegen, mit dunklen, schillernden Schwingen wie ein Nachthimmel voller Sterne, nutzen ihre Kräfte, um die wilden und geheimnisvollen Tiere zu rufen. Ihr Flüstern kann Bären zu Verbündeten machen oder Eulen zu unbestechlichen Wächtern. Doch ihre Magie ist wild und unberechenbar – sie fordert ihren Preis.
 
+Alle sieben Jahre treffen sich die beiden Stämme, um ihre Zauberkraft und ihr taktisches Geschick in feierlichem Wettkampf zu messen.
 
 ## Ziel des Spiels
 Ziel ist es, alle Feen aus dem gegnerischen Team vom Spielfeld zu schnappen und so als einziges Feenteam auf dem Spielfeld zu bleiben.
